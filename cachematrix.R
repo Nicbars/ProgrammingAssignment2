@@ -1,4 +1,4 @@
-## The goal in this repository write functions
+## The goal in this repository is to write functions
 ## using "makeCacheMatrix" to get the inverse of the matrix
 
 makeCacheMatrix <- function(x = matrix()) {
